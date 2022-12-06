@@ -1,0 +1,1 @@
+[[rate 300]]Ciao!,[[slnc 400]] al momento non posso rispondere,[[slnc 400]] lascia un messaggio e ti richiamerò quanto prima,[[slnc 300]] grazie.
